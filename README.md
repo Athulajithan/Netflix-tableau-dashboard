@@ -1,37 +1,85 @@
 # Netflix Tableau Dashboard
 
 ## Project Overview
-This project analyzes Netflix Movies and TV Shows using Tableau.  
-The dashboard provides insights into content distribution, ratings, genres, and release trends.
+
+This project analyzes Netflix Movies and TV Shows using Tableau.
+The dashboard provides insights into content distribution, ratings, genres, and release trends across the Netflix platform.
+
+The goal of this project is to demonstrate **data visualization, dashboard design, and exploratory data analysis using Tableau**.
+
+---
+
+## Interactive Dashboard
+
+View the interactive dashboard here:
+
+https://public.tableau.com/views/Netflex-Dashboard/Netflix
+
+---
+
+## Dashboard Preview
+
+### Main Dashboard
+
+![Netflix Dashboard](dashboard.png)
+
+### Tableau Workspace
+
+![Tableau Workspace](tableau-workspace.png)
+
+---
 
 ## Dashboard Features
 
 • Total Movies and TV Shows by Country (Map)
-• Ratings Distribution
+• Ratings Distribution Analysis
 • Movies vs TV Shows Comparison
-• Top 10 Genres
+• Top 10 Genres on Netflix
 • Content Added by Year
-• Interactive filters for title and type
+• Interactive filters for Title and Type
 
-Interactive Dashboard:
-https://public.tableau.com/views/Netflex-Dashboard/Netflix
+---
 
 ## Tools Used
 
-Tableau Public  
-Data Visualization  
-Data Cleaning  
+Tableau Public
+Data Visualization
+Data Cleaning
 CSV Dataset
 
+---
+
 ## Dataset
+
 Netflix Movies and TV Shows Dataset
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
+Source: Netflix titles dataset containing information about movies and TV shows including release year, rating, genre, country, and date added.
 
-## Insights
+---
 
-• Most Netflix content is Movies (~68%)
-• TV-MA and TV-14 ratings dominate the platform
-• Documentary and Stand-Up Comedy are highly represented genres
-• Content additions increased significantly after 2016
+## Key Insights
+
+• Most Netflix content consists of **Movies (~68%)** compared to TV Shows
+• **TV-MA and TV-14** are the most common content ratings
+• **Documentary and Stand-Up Comedy** are among the most frequent genres
+• Netflix significantly increased content additions **after 2016**
+
+---
+
+## Project Structure
+
+Netflix-Tableau-Dashboard
+│
+├── Netflix_Dashboard.twbx
+├── netflix_titles.csv
+├── dashboard.png
+├── tableau-workspace.png
+└── README.md
+
+---
+
+## Author
+
+Athul Ajithan
+athulajithan039@gmail.com
+
