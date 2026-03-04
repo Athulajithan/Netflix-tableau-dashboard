@@ -13,7 +13,7 @@ The dashboard provides insights into content distribution, ratings, genres, and 
 • Content Added by Year
 • Interactive filters for title and type
 
-##Interactive Dashboard:
+Interactive Dashboard:
 https://public.tableau.com/views/Netflex-Dashboard/Netflix
 
 ## Tools Used
